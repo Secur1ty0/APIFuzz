@@ -3,7 +3,7 @@
 🚨 **Swagger/OpenAPI 自动化接口 Fuzzer 工具**  
 扫描、测试未授权访问、接口异常、数据泄漏问题 —— 面向 API 安全测试的轻量化命令行工具。
 
-![banner](https://raw.githubusercontent.com/SwaggerFuzzer/img/banner.png) 
+![banner](https://raw.githubusercontent.com/Secur1ty0/SwaggerFuzzer/main/img/banner.png) 
 
 ---
 
