@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/your-username/APIFuzz/graphs/commit-activity)
 
-![banner](https://raw.githubusercontent.com/SwaggerFuzzer/img/banner.png) 
+<img src="./img/banner.png" alt="banner" style="zoom:50%;" /> 
 
 ------
 
